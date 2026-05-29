@@ -1,0 +1,11 @@
+Item ID,Component Name,Description / Details,Vendor,Unit Price ($),Quantity,Total Price ($),Purchase Link / Source
+BOM-001,MakerHawk Raspberry Pi UPS Power Supply Uninterruptible UPS HAT,18650 Battery Charger Power Bank Power Management Expansion Board 5V for Raspberry Pi 4 Model B / 3B+ / 3B,Newegg,69.69,1,69.69,https://www.newegg.com
+BOM-002,Raspberry Pi RPi-NoIR-Cam-V2 Camera Module,Official Raspberry Pi Camera NoIR (Infrared V2 Camera Module),Newegg,28.99,1,28.99,https://www.newegg.com
+BOM-003,Nitecore NL1823 18650 2300mAh Battery,Protected Button Top 18650 Lithium-Ion Battery (for UPS HAT),18650 Battery Store,8.95,3,26.85,https://www.18650battery.com
+BOM-004,3.5inch Capacitive Touch Display (320x480 IPS),Capacitive touchscreen for Raspberry Pi,PiShop.us,24.95,1,24.95,https://www.pishop.us
+BOM-005,Raspberry Pi 5 (1GB) Bundle Kit,"Includes Pi 5 1GB, Case with Fan (SKU 1272-1), Official 32GB MicroSD Card with Pi OS 64-bit (SKU 1337-1), and 3ft Micro-HDMI to HDMI cable (SKU CS-PID-301)",PiShop.us,82.35,1,82.35,https://www.pishop.us
+BOM-006,SunFounder USB 2.0 Mini Microphone,"Mini microphone compatible with Raspberry Pi 5/4B/3B+/3B, AI LLMs, Openclaw Voice Recognition, driverless",SunFounder,8.59,1,8.59,https://www.sunfounder.com
+BOM-007,SunFounder 3.5 Inch Touch Screen IPS LCD SPI Display Monitor,3.5 inch 480x320 SPI display monitor with stylus,SunFounder,25.99,1,25.99,https://www.sunfounder.com
+BOM-008,SunFounder Shipping Protection,Optional shipping protection fee (SKU S001),SunFounder,0.98,1,0.98,https://www.sunfounder.com
+BOM-009,REXQualis Electronics Component Fun Kit,"Includes power supply module, jumper wires, 830 tie-points breadboard, precision potentiometer, resistors",Amazon,14.19,1,14.19,https://www.amazon.com
+BOM-010,SunFounder Super Starter Kit V2.0 for Raspberry Pi,Electronic starter kit including 73-page user manual (Note: listed as 'Sold Out' in screenshot),SunFounder,25.29,1,25.29,https://www.sunfounder.com/collections/raspberrypi-kits/products/super-starter-kit-v2
